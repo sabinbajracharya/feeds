@@ -1,0 +1,22 @@
+{
+   "users":[
+      {
+         "id":"625760052",
+         "name":"The Kathmandu Post",
+         "profile_image_url":"https://pbs.twimg.com/profile_images/1151299264590409728/V5E41IkO_normal.jpg",
+         "username":"kathmandupost"
+      },
+      {
+         "id":"160131888",
+         "name":"The Himalayan Times",
+         "profile_image_url":"https://pbs.twimg.com/profile_images/378800000742583092/7830e5564d64a8cf925015e7b4f85169_normal.jpeg",
+         "username":"thehimalayan"
+      },
+      {
+         "id":"23758430",
+         "name":"BBC News Nepali",
+         "profile_image_url":"https://pbs.twimg.com/profile_images/940234138010886145/pFXWgnqn_normal.jpg",
+         "username":"bbcnepali"
+      }
+   ]
+}
