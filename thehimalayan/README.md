@@ -1,1 +1,1 @@
-Friends with a monster
+Friends with GOD
